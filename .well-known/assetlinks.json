@@ -1,7 +1,7 @@
 [{
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
-      "namespace": "com.smatii.readytofly",
+      "namespace": "com.example.myapp",
       "package_name": "com.smatii.readytofly",
       "sha256_cert_fingerprints":
       ["9C:B1:E0:F5:6F:65:65:71:E0:81:D2:F3:DE:AA:2B:F6:2B:9E:D5:35:53:68:9F:56:1B:68:2E:1B:C1:BA:96:93"]
